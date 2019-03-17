@@ -1,0 +1,12 @@
+{
+  "name": "artistplayer/app",
+  "authors": [
+    {
+      "name": "ArtistPlayer",
+      "email": "info@artistplayer.nl"
+    }
+  ],
+  "license": [
+    "MIT"
+  ]
+}
